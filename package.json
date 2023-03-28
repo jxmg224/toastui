@@ -1,0 +1,17 @@
+{
+  "name": "com.cxg.toastui",
+  "version": "1.0.1",
+  "displayName": "toastui",
+  "description": "toastui_tips",
+  "unity": "2019.1",
+  "dependencies": {
+
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [ "unity", "array" ],
+  "author": {
+    "name": "Jxmg",
+    "url": "https://github.com/jxmg224"
+  }
+
+}
